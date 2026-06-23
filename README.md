@@ -86,6 +86,7 @@ Der Entwickler behält sich vor, diese Datenschutzerklärung anzupassen, wenn te
 Pflichtangaben nach § 5 TMG / § 18 MStV:
 
 **Diensteanbieter und Verantwortlicher:**
+
 Johannes Schwind  
 Herrenbreite 5  
 34346 Hann. Münden  
